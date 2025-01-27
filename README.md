@@ -1,1 +1,1 @@
-# Flutter app for DeapSpeak
+# Flutter app for DeepSpeak
