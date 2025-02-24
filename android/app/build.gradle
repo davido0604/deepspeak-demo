@@ -7,6 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.deepspeak"
+    namespace "com.deepspeak.record"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
